@@ -15,3 +15,15 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 ### Java基础
 
+#### IDEA安装
+
+下载地址：https://www.jetbrains.com/idea/
+
+##### IDEA配置：
+
+1.配置JDK
+
+​	新建项目时，可以选择JDK增加。
+
+![1562310308008](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\1562310308008.png)
+
