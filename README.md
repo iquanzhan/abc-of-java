@@ -25,5 +25,25 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 ​	新建项目时，可以选择JDK增加。
 
-![1562310308008](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\1562310308008.png)
+2.字体设置
+
+​	编辑器字体设置：Settings->Editor->Font 设置编辑器字体
+
+3.关闭IDEA自动更新
+
+​	File->Settings->Appearance & Behavior->System Settings->Updates下取消Automatically check updates for勾选 
+
+4.隐藏.idea文件夹和.iml等文件
+​	File->Settings->Editor->File Types下的”Ignore files and folders”一栏添加 *.idea;*.iml;等配置
+
+5.文件编码设置
+
+​	File->Settings->Editor->File Encodings
+
+> 1. Global Encoding:UTF-8
+> 2. Projectt Encoding:UTF-8
+> 3. Default encoding for properties files:UTF-8
+> 4. 勾选上Transparent native-to-ascii conversion
+
+
 
