@@ -15,6 +15,7 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 ### 1.Java基础
 
-1. 1 [IDEA常用设置及插件推荐](docs/01.md)
-
-
+1.  [IDEA常用设置及插件推荐](docs/01.md)
+2.  [Java基础知识点查漏](docs/02basic.md)
+3.  [Java常用API](docs/03.md)
+4. 
