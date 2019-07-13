@@ -13,13 +13,8 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 本文还在更新，文章还有很多不足，随时欢迎探讨与骚扰。欢迎start GitHub。
 
-### Java基础
+### 1.Java基础
 
-#### IDEA安装
-
-下载地址：https://www.jetbrains.com/idea/
-
-[01IDEA常用设置]: docs/01.md	"介绍使用IDEA的常用配置"
-
+1. 1 [IDEA常用设置及插件推荐](docs/01.md)
 
 
