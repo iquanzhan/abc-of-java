@@ -31,6 +31,70 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 1.[搭建Spring Boot项目](docs/springboot/01createproject.md)
 
+2.集成Mybatis/Spring Data JPA
+
+3.集成Redis/MongoDB
+
+4.集成消息队列（RockketMQ、ActiveMQ）
+
+5.集成ElasticSearch分布式搜索功能
+
+6.定时任务
+
+x.主动推送技术SSE
+
+
+
+## 第四章Dubbo
+
+
+
+
+
+
+
+
+
+## 第N章 系统部署相关
+
+1.MyCat数据库分片
+
+2.Nginx代理
+
+3.
+
+
+
+## 第N章 其他常用功能代码汇总
+
+1.极光推送集成
+
+2.文档生成（excel、word、pdf）
+
+3.二维码的生成与解析
+
+4.在线支付（微信、支付宝）
+
+5.第三方登陆（微信、QQ等）
+
+6.SSO单点登陆
+
+7.分布式日志收集
+
+8.小程序开发
+
+9.Java实现的网络小爬虫Demo
+
+10.Activity
+
+11.PostgreSQL
+
+12.FreeMarker
+
+
+
+
+
 
 
 ## 常用命令行
