@@ -17,17 +17,80 @@ The ABC Of Java：力求整理java的基础知识点及常用技巧。
 
 ## 第一章 Java基础
 
-1.  [IDEA常用设置及插件推荐](docs/01.md)
-2.  [Java基础知识点查漏](docs/02basic.md)
-3.  [Java常用API](docs/03.md)
-
-## 第二章 常用环境搭建
-
-
-
+1.  [使用IDEA的一些好用的小设置及私藏插件推荐](docs/01.md)
+2.  [Java最最基础知识点查漏补缺（只有几条小汇总）](docs/02basic.md)
+3.  [Java常用类对象小杂烩（Scanner、Random、ArrayList等...）](docs/03.md)
+4.  正则表达式
+5.  Java10、11、12新特性
+6.  AIO、BIO、NIO
 
 
-## 第三章 Spring Boot
+
+## 第二章 数据库知识汇总
+
+### 2.1 MySql
+
+### 2.2 Oracle
+
+
+
+## 第三章 Web基础知识点
+
+
+
+## 第四章 常用流行框架使用
+
+### 4.1 Spring
+
+### 4.2 Spring MVC
+
+### 4.3 MyBatis
+
+### 4.4 Lucene
+
+### 4.5 Spring Data JPA
+
+### 4.6 ActiveMQ/RabbitMQ
+
+### 4.7 Netty
+
+### 4.8 Zookeeper Dubbo
+
+### 4.9 Redis
+
+### 4.10 Shiro
+
+### 4.11 Elasticsearch
+
+### 4.12 SSO
+
+### 4.13 Activiti
+
+### 4.14 Quartz
+
+### 4.15 Spring Batch
+
+### 4.16 MongoDB
+
+### 4.17 Spring Cache
+
+### 4.18 POI
+
+### 4.19Freemarker/Thymeleaf
+
+
+
+## 第五章 版本控制
+
+### 5.1 Maven
+
+### 5.2 Git
+
+### 5.3 Gradle
+
+
+
+## 第六章 微服务相关
 
 1.[搭建Spring Boot项目](docs/springboot/01createproject.md)
 
@@ -45,27 +108,19 @@ x.主动推送技术SSE
 
 
 
-## 第四章Dubbo
+## 第七章 前端工程化Vue和React技术栈
 
 
 
-
-
-
-
-
-
-## 第N章 系统部署相关
+## 第八章 架构优化、持续继承与容器化
 
 1.MyCat数据库分片
 
 2.Nginx代理
 
-3.
 
 
-
-## 第N章 其他常用功能代码汇总
+## 第九章 其他常用功能代码汇总
 
 1.极光推送集成
 
@@ -90,10 +145,6 @@ x.主动推送技术SSE
 11.PostgreSQL
 
 12.FreeMarker
-
-
-
-
 
 
 
