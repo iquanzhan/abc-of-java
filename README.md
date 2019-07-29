@@ -22,10 +22,11 @@
 1.  [使用IDEA的一些好用的小设置及私藏插件推荐](docs/01.md)
 2.  [Java最最基础知识点查漏补缺（只有几条小汇总）](docs/02basic.md)
 3.  [Java常用类对象介绍及其常用方法示例](docs/03.md)
-4.  [Java集合用法汇总](docs/05.md)
-5.  正则表达式
-6.  Java10、11、12新特性
-7.  AIO、BIO、NIO
+4.  [Java集合用法汇总（List、Set、Map等）](docs/05.md)
+5.  [Java异常处理](docs/06.md)
+6.  正则表达式
+7.  Java10、11、12新特性
+8.  AIO、BIO、NIO
 
 
 
