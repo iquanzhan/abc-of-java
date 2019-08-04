@@ -104,15 +104,19 @@
 
 1.[搭建Spring Boot项目](docs/springboot/01createproject.md)
 
-2.集成Mybatis/Spring Data JPA
+2.Mybatis/Spring Data JPA
 
-3.集成Redis/MongoDB
+3.Redis/MongoDB
 
-4.集成消息队列（RockketMQ、ActiveMQ）
+4.消息队列（RockketMQ、ActiveMQ）
 
-5.集成ElasticSearch分布式搜索功能
+5.ElasticSearch分布式搜索
 
 6.定时任务
+
+7.图片存储服务-FastDFS
+
+8.
 
 x.主动推送技术SSE
 
@@ -127,6 +131,10 @@ x.主动推送技术SSE
 1.MyCat数据库分片
 
 2.Nginx代理
+
+3.压力测试-jmeter
+
+4.秒杀及限流
 
 
 
