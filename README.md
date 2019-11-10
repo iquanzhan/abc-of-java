@@ -46,6 +46,10 @@
 
 ## 第四章 常用流行框架使用
 
+### 4.0 Hibernate
+
+[Hibernate使用教程](docs/hibernate.md)
+
 ### 4.1 Spring
 
 #### 4.1.1Spring框架下配置定时任务
