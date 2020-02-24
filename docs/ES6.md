@@ -245,7 +245,7 @@ promise.then(function(value){
 
 如果想要处理promise异步执行失败的事件，还可以跟上catch：
 
-```js
+```javascript
 promise.then(function(value){
     // 异步执行成功后的回调
 }).catch(function(error){
@@ -255,7 +255,7 @@ promise.then(function(value){
 
 示例：
 
-```
+```javascript
 const p = new Promise(function (resolve, reject) {
     // 这里我们用定时任务模拟异步
     setTimeout(() => {
@@ -276,3 +276,4 @@ p.then(function (msg) {
     console.log(msg);
 })
 ```
+

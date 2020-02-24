@@ -136,6 +136,10 @@ x.主动推送技术SSE
 
 [ECMAScript相关知识点](docs/ES6.md)
 
+### 7.2 Vue基础
+
+[Vue基础知识点汇总](docs/Vue基础.md)
+
 ## 第八章 架构优化、持续继承与容器化
 
 1.MyCat数据库分片
