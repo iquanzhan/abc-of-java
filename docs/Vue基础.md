@@ -386,8 +386,6 @@ Array
 
 #### 父子组件通信：
 
-##### 父组件给子组件通信
-
 ###### 父给子组件传值
 
 1.父组件调用组件时，绑定动态属性	
@@ -465,9 +463,9 @@ VueEmit.$on("名称",function(){
 
 
 
-存储：
+## 四、存储：
 
-localStroage
+### localStroage
 
 ```vue
 var storage={
@@ -483,4 +481,52 @@ var storage={
 }
 ```
 
-cookie
+### cookie
+
+```
+//引用 npm install js-cookie --save
+
+import Cookies from 'js-cookie'
+
+
+//往cookie中存值
+// 创建一个cookie 
+Cookies.set('name', 'value');
+
+// 添加过期时间。单位：天
+Cookies.set('name', 'value', { expires: 7 });
+
+// 对应指定路径下可用
+Cookies.set('name', 'value', { expires: 7, path: '' });
+
+
+在cookie中取值：
+// 读取cookie，如无返回undefined
+Cookies.get('name'); // => 'value'
+Cookies.get('nothing'); // => undefined
+
+// 取得所有cookie
+Cookies.get(); // => { name: 'value' }
+
+删除cookie：
+//根据key删除cookie
+Cookies.remove('name');
+
+// Delete a cookie valid to the path of the current page:
+Cookies.set('name', 'value', { path: '' });
+Cookies.remove('name'); // fail!
+Cookies.remove('name', { path: '' }); // removed!
+
+储存对象：
+//储存对象后，取值时，需要进行JSON转换
+const user = {
+  name: 'lia',
+  age: 18
+}
+Cookies.set('user', user)
+const liaUser = JSON.parse(Cookies.get('user'))
+
+```
+
+## 五、插槽
+
